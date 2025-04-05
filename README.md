@@ -1,11 +1,11 @@
-Main files:
+## Main files:
 
 [https://github.com/METU-SPACE-Lab/prnet/blob/main/notebooks/prnet_large_small_inference.ipynb](notebooks/prnet_large_small_inference.ipynb)
 
 [https://github.com/METU-SPACE-Lab/prnet/blob/main/notebooks/prnet_large_small_inference%20copy_____tta_dihedral.ipynb](notebooks/prnet_large_small_inference%20copy_____tta_dihedral.ipynb)
 
 
-Model weights:
+## Model weights:
 
 large main loop: https://terabox.com/s/1GFeV9kMiWAX36Nrh90gfEQ
 
