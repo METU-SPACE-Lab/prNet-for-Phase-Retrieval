@@ -2,6 +2,11 @@
 
 https://github.com/METU-SPACE-Lab/prnet/tree/main/notebooks
 
+## Evaluation results:
+
+https://github.com/METU-SPACE-Lab/prnet/tree/main/logs
+
+
 ## Model weights:
 
 prNet-Large, Main Loop Denoiser: https://terabox.com/s/1GFeV9kMiWAX36Nrh90gfEQ
