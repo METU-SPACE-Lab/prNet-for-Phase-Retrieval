@@ -1,16 +1,16 @@
 total 364804
 drwxrwxrwx 11 root    root    20480 Aug  8 17:45 ../
--rw-r--r--  1 kuartis sudo     7697 Aug  8 14:54 onnx_export.ipynb
--rw-r--r--  1 kuartis sudo  1675873 Jun 11 12:22 prnet_large_small_inference copy_____tta_dihedral.ipynb
+-rw-r--r--  1 root    sudo     7697 Aug  8 14:54 onnx_export.ipynb
+-rw-r--r--  1 root    sudo  1675873 Jun 11 12:22 prnet_large_small_inference copy_____tta_dihedral.ipynb
 -rw-r--r--  1 root    root   204430 Jun 10 19:23 large_small_inference__________ttadihedral_alpha2.pkl
 -rw-r--r--  1 root    root     5296 Jun 10 19:23 large_small_inference__________ttadihedral_alpha2.log
 drwxrwxrwx 12 root    root    24576 Jun 10 16:28 ./
 -rw-r--r--  1 root    root     5289 Jun 10 08:54 large_small_inference__________ttadihedral.log
 -rw-r--r--  1 root    root   204430 Jun 10 08:54 large_small_inference__________ttadihedral.pkl
--rw-r--r--  1 kuartis sudo   112730 Jun 10 03:02 indilike_first copy_refinedddddd_11channel copy 3.ipynb
-drwxr-xr-x  2 kuartis sudo   237568 Jun  5 14:23 test_images_plot_indipr_32/
-drwxr-xr-x  2 kuartis sudo    36864 Jun  1 18:17 test_images_plot_indipr_4/
--rw-r--r--  1 kuartis sudo   756519 May 31 03:41 plot_fig_uq.ipynb
+-rw-r--r--  1 root    sudo   112730 Jun 10 03:02 indilike_first copy_refinedddddd_11channel copy 3.ipynb
+drwxr-xr-x  2 root    sudo   237568 Jun  5 14:23 test_images_plot_indipr_32/
+drwxr-xr-x  2 root    sudo    36864 Jun  1 18:17 test_images_plot_indipr_4/
+-rw-r--r--  1 root    sudo   756519 May 31 03:41 plot_fig_uq.ipynb
 -rw-rw-r--  1 user    user    63952 May 30 13:52 indi11channeltest_____________4_test_simple_4.pkl
 -rw-rw-r--  1 user    user    63952 May 30 11:47 indi11channeltest_____________2_test_simple_4.pkl
 -rw-rw-r--  1 user    user    63952 May 30 09:55 indi11channeltest_4_________8_test_simple_8.pkl
@@ -24,36 +24,36 @@ drwxr-xr-x  2 root    root     4096 May 19 20:54 indi_test_noise_process/
 -rw-rw-r--  1 user    user 52429365 May 19 11:03 indi11channeltest_4______uq_measurements_____________.pkl
 -rw-rw-r--  1 user    user    16350 May 19 10:56 indi11channeltest_4______calibration_curve_onlyone.pdf
 -rw-rw-r--  1 user    user    16350 May 19 10:54 indi11channeltest_4______calibration_curve.pdf
-drwxrwxrwx  2 kuartis sudo    28672 May 19 10:54 indi_test_uq/
+drwxrwxrwx  2 root    sudo    28672 May 19 10:54 indi_test_uq/
 -rw-rw-r--  1 user    user 52429365 May 19 00:27 indi11channeltest_4______uq_measurements_.pkl
 -rw-rw-r--  1 user    user  5243445 May 18 21:57 indi11channeltest_4______uq_measurements.pkl
--rw-r--r--  1 kuartis sudo   214631 May 17 03:12 copy3_op.ipynb
--rw-r--r--  1 kuartis sudo  6491606 May 16 00:35 indilike_first copy_refinedddddd_11channel copy 3_tryings.ipynb
+-rw-r--r--  1 root    sudo   214631 May 17 03:12 copy3_op.ipynb
+-rw-r--r--  1 root    sudo  6491606 May 16 00:35 indilike_first copy_refinedddddd_11channel copy 3_tryings.ipynb
 -rw-rw-r--  1 user    user   223226 May 14 03:22 indi_pretrained_new_noiseconst_refined_input11channel_4.log
 -rw-rw-r--  1 user    user       49 May 13 22:42 indi11channeltest_4_.log
 -rw-rw-r--  1 user    user        5 May 13 22:42 indi11channeltest_4_.pkl
 -rw-rw-r--  1 user    user   279378 May 13 12:06 indi_pretrained_new_noiseconst_refined_input11channel_5_8.log
--rw-r--r--  1 kuartis sudo  5401380 May 12 14:09 indilike_first copy_refinedddddd_11channel copy 2.ipynb
--rw-r--r--  1 kuartis sudo  4117327 May 11 17:09 indilike_first copy_refinedddddd_11channel copy.ipynb
+-rw-r--r--  1 root    sudo  5401380 May 12 14:09 indilike_first copy_refinedddddd_11channel copy 2.ipynb
+-rw-r--r--  1 root    sudo  4117327 May 11 17:09 indilike_first copy_refinedddddd_11channel copy.ipynb
 -rw-rw-r--  1 user    user   222982 May 11 09:36 indi_pretrained_new_noiseconst_refined_input11channel_32.log
--rw-r--r--  1 kuartis sudo  5943884 May  9 21:10 indilike_first copy_refinedddddd_11channel.ipynb
+-rw-r--r--  1 root    sudo  5943884 May  9 21:10 indilike_first copy_refinedddddd_11channel.ipynb
 -rw-rw-r--  1 user    user   183232 May  9 04:58 indi_pretrained_new_noiseconst_refined_input11channel_.log
 -rw-rw-r--  1 user    user   254059 May  7 21:47 indi_pretrained_new_noiseconst_refined.log
 -rw-rw-r--  1 user    user   132708 May  7 21:23 indi_pretrained_new_noiseconst_refined_input2channel_.log
--rw-r--r--  1 kuartis sudo  6004527 May  7 01:39 indilike_first copy_refinedddddd_highernoise.ipynb
+-rw-r--r--  1 root    sudo  6004527 May  7 01:39 indilike_first copy_refinedddddd_highernoise.ipynb
 -rw-rw-r--  1 user    user    18391 May  7 01:34 indi_pretrained_new_noiseconst_refined_input2channel.log
 -rw-rw-r--  1 user    user    61401 May  6 22:29 indi_pretrained_new_noiseconst_refined_highernoise.log
--rw-r--r--  1 kuartis sudo  3642214 May  6 20:07 indilike_first copy_refinedddddd.ipynb
+-rw-r--r--  1 root    sudo  3642214 May  6 20:07 indilike_first copy_refinedddddd.ipynb
 -rw-rw-r--  1 user    user    33914 May  6 19:17 indi_pretrained_new_noiseconst_refined_longer.log
--rw-r--r--  1 kuartis sudo  5362967 May  5 21:03 indilike_first copy_refinedddddd_longer.ipynb
-drwxrwxrwx  2 kuartis sudo   348160 Apr 29 10:20 example_test_result_large_small/
+-rw-r--r--  1 root    sudo  5362967 May  5 21:03 indilike_first copy_refinedddddd_longer.ipynb
+drwxrwxrwx  2 root    sudo   348160 Apr 29 10:20 example_test_result_large_small/
 -rw-rw-r--  1 user    user     4639 Apr 28 22:20 large_small_inference__.log
--rw-r--r--  1 kuartis sudo   162047 Apr 26 04:57 select_figures.ipynb
--rw-r--r--  1 kuartis sudo   198716 Apr 25 21:41 prnet_large_small_inference_w_graph.ipynb
--rwxrwxrwx  1 kuartis sudo   203136 Apr 25 20:16 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_2_largenew.ipynb*
--rw-r--r--  1 kuartis sudo    34985 Apr 25 20:15 prnet_large_small_inference.ipynb
--rw-r--r--  1 kuartis sudo    37432 Apr 25 20:04 prnet_large_small_inference copy.ipynb
--rw-r--r--  1 kuartis sudo    37432 Apr 25 20:01 prnet_large_small_inference copy 2.ipynb
+-rw-r--r--  1 root    sudo   162047 Apr 26 04:57 select_figures.ipynb
+-rw-r--r--  1 root    sudo   198716 Apr 25 21:41 prnet_large_small_inference_w_graph.ipynb
+-rwxrwxrwx  1 root    sudo   203136 Apr 25 20:16 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_2_largenew.ipynb*
+-rw-r--r--  1 root    sudo    34985 Apr 25 20:15 prnet_large_small_inference.ipynb
+-rw-r--r--  1 root    sudo    37432 Apr 25 20:04 prnet_large_small_inference copy.ipynb
+-rw-r--r--  1 root    sudo    37432 Apr 25 20:01 prnet_large_small_inference copy 2.ipynb
 -rw-rw-r--  1 user    user     5854 Apr 25 18:55 large_small_inference__alpha4.log
 -rw-rw-r--  1 user    user   250693 Apr 25 18:54 large_small_inference__alpha4.pkl
 -rw-rw-r--  1 user    user     5834 Apr 25 18:53 large_small_inference__alpha2.log
@@ -62,7 +62,7 @@ drwxrwxrwx  2 kuartis sudo   348160 Apr 29 10:20 example_test_result_large_small
 -rw-rw-r--  1 user    user     5876 Apr 24 15:51 large_small_inference_.pkl
 -rw-rw-r--  1 user    user     5679 Apr 24 14:46 large_small_inference.log
 -rw-rw-r--  1 user    user   241066 Apr 24 14:46 large_small_inference.pkl
--rwxrwxrwx  1 kuartis sudo   181473 Apr 24 13:09 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_2.ipynb*
+-rwxrwxrwx  1 root    sudo   181473 Apr 24 13:09 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_2.ipynb*
 -rw-rw-r--  1 user    user     5366 Apr 24 02:57 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____largenew__large_.log
 -rw-rw-r--  1 user    user   183226 Apr 24 02:57 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____largenew__large_.pkl
 -rw-rw-r--  1 user    user   115725 Apr 24 00:51 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____largenew__large.pkl
@@ -76,28 +76,28 @@ drwxrwxrwx  2 kuartis sudo   348160 Apr 29 10:20 example_test_result_large_small
 -rw-rw-r--  1 user    user    81589 Apr 17 08:26 py_log_adversarial_alpha_3_large_new___.log
 -rw-rw-r--  1 user    user   146894 Apr 16 04:27 py_log_adversarial_alpha_3_large_new_.log
 -rw-rw-r--  1 user    user    32673 Apr 15 12:01 py_log_adversarial_alpha_3_large_new.log
--rw-r--r--  1 kuartis sudo    10253 Apr 14 11:11 adv.ipynb
--rw-r--r--  1 kuartis sudo   785737 Apr 14 10:23 largenewadversarialdatasetcreate.ipynb
--rw-r--r--  1 kuartis sudo  5259518 Apr 13 09:53 analysis.ipynb
+-rw-r--r--  1 root    sudo    10253 Apr 14 11:11 adv.ipynb
+-rw-r--r--  1 root    sudo   785737 Apr 14 10:23 largenewadversarialdatasetcreate.ipynb
+-rw-r--r--  1 root    sudo  5259518 Apr 13 09:53 analysis.ipynb
 -rw-rw-r--  1 user    user     2256 Apr 12 07:25 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____largenew.log
 -rw-rw-r--  1 user    user    86817 Apr 12 07:24 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____largenew.pkl
-drwxrwxrwx  2 kuartis sudo    36864 Apr 12 07:24 example_test_results_final_largenew/
+drwxrwxrwx  2 root    sudo    36864 Apr 12 07:24 example_test_results_final_largenew/
 -rw-rw-r--  1 user    user     3908 Apr 12 05:46 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____largenew_.log
 -rw-rw-r--  1 user    user   183152 Apr 12 05:46 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____largenew_.pkl
 -rw-rw-r--  1 user    user    72474 Apr 11 19:13 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_2____largenew_betterdc.log
 -rw-rw-r--  1 user    user     7637 Apr  6 09:39 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_2____largenew_.log
 -rw-rw-r--  1 user    user    25078 Apr  6 03:23 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_2____largenew.log
 -rw-rw-r--  1 user    user      842 Apr  6 02:13 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_2___.log
--rw-r--r--  1 kuartis sudo  2277588 Apr  5 22:20 try____.ipynb
--rw-r--r--  1 kuartis sudo   512418 Apr  5 16:38 try_adamw.ipynb
+-rw-r--r--  1 root    sudo  2277588 Apr  5 22:20 try____.ipynb
+-rw-r--r--  1 root    sudo   512418 Apr  5 16:38 try_adamw.ipynb
 -rw-rw-r--  1 user    user   174505 Apr  5 01:04 indi_pretrained_new_noiseconst_5new.log
 -rw-rw-r--  1 user    user   368648 Apr  5 01:04 py_log_adversarial_alpha_3__.log
 -rw-rw-r--  1 user    user    78793 Apr  5 00:59 py_log_adversarial_alpha_3.log
--rw-r--r--  1 kuartis sudo  4932901 Apr  4 07:54 indilike_first copy 5new.ipynb
--rw-r--r--  1 kuartis sudo  5783783 Apr  4 06:45 indilike_first copy 5.ipynb
+-rw-r--r--  1 root    sudo  4932901 Apr  4 07:54 indilike_first copy 5new.ipynb
+-rw-r--r--  1 root    sudo  5783783 Apr  4 06:45 indilike_first copy 5.ipynb
 -rw-rw-r--  1 user    user     1875 Apr  4 06:40 indi_test_new5__.log
 -rw-rw-r--  1 user    user     1891 Apr  4 06:07 indi_test_new5.log
--rw-r--r--  1 kuartis sudo  1458003 Apr  3 03:47 tries.ipynb
+-rw-r--r--  1 root    sudo  1458003 Apr  3 03:47 tries.ipynb
 -rw-rw-r--  1 user    user     2586 Apr  3 03:29 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2______.log
 -rw-rw-r--  1 user    user    86817 Apr  3 03:29 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_______.pkl
 -rw-rw-r--  1 user    user        5 Apr  2 00:34 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2______.pkl
@@ -105,44 +105,44 @@ drwxrwxrwx  2 kuartis sudo    36864 Apr 12 07:24 example_test_results_final_larg
 -rw-rw-r--  1 user    user    86817 Mar 27 22:19 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_____.pkl
 -rw-rw-r--  1 user    user     3366 Mar 21 23:07 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_.log
 -rw-rw-r--  1 user    user    86817 Mar 21 23:06 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2_.pkl
--rwxrwxrwx  1 kuartis sudo   354017 Mar 21 20:59 indi_like_first_try.ipynb*
--rw-r--r--  1 kuartis sudo     6562 Mar 21 20:33 pickle_try.ipynb
+-rwxrwxrwx  1 root    sudo   354017 Mar 21 20:59 indi_like_first_try.ipynb*
+-rw-r--r--  1 root    sudo     6562 Mar 21 20:33 pickle_try.ipynb
 -rw-rw-r--  1 user    user     1889 Mar 20 18:38 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll___newwithcorrectsnr2.log
--rwxrwxrwx  1 kuartis sudo   351841 Mar 20 18:22 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages.ipynb*
+-rwxrwxrwx  1 root    sudo   351841 Mar 20 18:22 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages.ipynb*
 -rw-rw-r--  1 user    user    14196 Mar 18 07:36 indi_pretrained_new_noiseconst8.log
 -rw-rw-r--  1 user    user   236253 Mar 18 02:11 indi_pretrained_new_noiseconst7.log
 -rw-rw-r--  1 user    user   236756 Mar 17 23:31 indi_pretrained_new_noiseconst6.log
--rw-r--r--  1 kuartis sudo  4404925 Mar 15 23:53 indilike_first copy 8.ipynb
--rw-r--r--  1 kuartis sudo  8763930 Mar 15 23:41 indilike_first copy 7.ipynb
--rw-r--r--  1 kuartis sudo  3276563 Mar 15 23:33 indilike_first copy 6.ipynb
+-rw-r--r--  1 root    sudo  4404925 Mar 15 23:53 indilike_first copy 8.ipynb
+-rw-r--r--  1 root    sudo  8763930 Mar 15 23:41 indilike_first copy 7.ipynb
+-rw-r--r--  1 root    sudo  3276563 Mar 15 23:33 indilike_first copy 6.ipynb
 -rw-rw-r--  1 user    user   212919 Mar 15 10:02 indi_pretrained_new.log
 -rw-rw-r--  1 user    user   219327 Mar 15 10:02 indi_pretrained_new_noiseconst.log
--rw-r--r--  1 kuartis sudo 11454941 Mar 13 22:39 indilike_first copy 4.ipynb
--rw-r--r--  1 kuartis sudo    35927 Mar 13 21:56 norefanalysis.ipynb
+-rw-r--r--  1 root    sudo 11454941 Mar 13 22:39 indilike_first copy 4.ipynb
+-rw-r--r--  1 root    sudo    35927 Mar 13 21:56 norefanalysis.ipynb
 -rw-rw-r--  1 user    user     5948 Mar 13 17:42 indi_test.log
 -rw-rw-r--  1 user    user   103134 Mar 11 21:44 indi_pretrained.log
--rw-r--r--  1 kuartis sudo  4236021 Mar 11 01:37 indilike_first copy 2.ipynb
+-rw-r--r--  1 root    sudo  4236021 Mar 11 01:37 indilike_first copy 2.ipynb
 -rw-rw-r--  1 user    user    59830 Mar 11 01:36 indi_70_custom.log
 -rw-rw-r--  1 user    user      655 Mar 10 17:01 indi_70_.log
--rw-r--r--  1 kuartis sudo   281589 Mar 10 16:01 indilike_first copy 3.ipynb
+-rw-r--r--  1 root    sudo   281589 Mar 10 16:01 indilike_first copy 3.ipynb
 -rw-rw-r--  1 user    user     1174 Mar 10 15:34 indi_70_dist__.log
 -rw-rw-r--  1 user    user    26896 Mar 10 14:22 indi_70_dist_.log
 -rw-rw-r--  1 user    user     3219 Mar 10 05:51 indi_70_dist.log
 -rw-rw-r--  1 user    user     2353 Mar 10 03:12 indi_70.log
 -rw-rw-r--  1 user    user   195394 Mar  9 18:54 indi_12.log
 -rw-rw-r--  1 user    user   180095 Mar  9 18:54 indi_19_.log
--rw-r--r--  1 kuartis sudo  5733909 Mar  9 16:12 indilike_first copy.ipynb
--rw-r--r--  1 kuartis sudo  4895337 Mar  9 03:06 indilike_first.ipynb
+-rw-r--r--  1 root    sudo  5733909 Mar  9 16:12 indilike_first copy.ipynb
+-rw-r--r--  1 root    sudo  4895337 Mar  9 03:06 indilike_first.ipynb
 -rw-rw-r--  1 user    user    18120 Mar  9 00:36 indi_18.log
 -rw-rw-r--  1 user    user    47360 Mar  8 21:53 indi__19.log
 -rw-rw-r--  1 user    user    41814 Mar  8 20:46 indi__180.log
 -rw-rw-r--  1 user    user     7958 Mar  8 19:54 indi__.log
 -rw-rw-r--  1 user    user    19797 Mar  8 19:47 indi_.log
--rw-r--r--  1 kuartis sudo     3267 Mar  8 19:47 justfortensortry.ipynb
+-rw-r--r--  1 root    sudo     3267 Mar  8 19:47 justfortensortry.ipynb
 -rw-rw-r--  1 user    user    38992 Mar  8 19:25 indi.log
--rwxrwxrwx  1 kuartis sudo 16004943 Mar  8 13:47 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_fastertrainv2.ipynb*
+-rwxrwxrwx  1 root    sudo 16004943 Mar  8 13:47 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_fastertrainv2.ipynb*
 -rw-rw-r--  1 user    user   321250 Mar  8 02:11 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_fastertrain__new__.log
--rwxrwxrwx  1 kuartis sudo    21691 Mar  7 04:44 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_fastertrain.ipynb*
+-rwxrwxrwx  1 root    sudo    21691 Mar  7 04:44 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes_useallimages_fastertrain.ipynb*
 -rwxrwxrwx  1 root    root    16377 Mar  7 02:32 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_fastertrain__new_.log*
 -rwxrwxrwx  1 root    root   203244 Mar  5 16:12 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_fastertrain__new.log*
 -rwxrwxrwx  1 root    root    99922 Mar  4 09:39 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax_newwithcorrectsnr_fastertrain_higherlr.log*
@@ -153,18 +153,18 @@ drwxrwxrwx  2 kuartis sudo    36864 Apr 12 07:24 example_test_results_final_larg
 drwxrwxrwx  5 root    root     4096 Jan 21  2024 real_diffusion/
 -rwxrwxrwx  1 user    user    29935 Jan  5  2024 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_amax.log*
 -rwxrwxrwx  1 user    user     2241 Jan  4  2024 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103_allimages_finalll_.log*
-drwxrwxrwx  2 kuartis sudo    12288 Jan  4  2024 example_test_results_final/
+drwxrwxrwx  2 root    sudo    12288 Jan  4  2024 example_test_results_final/
 -rwxrwxrwx  1 root    root    22987 Jan  3  2024 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages_.log*
 -rwxrwxrwx  1 root    root      388 Dec 27  2023 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_.log*
 -rwxrwxrwx  1 root    root    24891 Dec 27  2023 model_trying_new_copy_scheduler_clamp_morenoise_moreiteartions_notz_x_newnewyes.ipynb*
 -rwxrwxrwx  1 root    root      388 Dec 27  2023 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes_allimages.log*
-drwxrwxrwx  2 kuartis sudo     4096 Dec 23  2023 optimization/
+drwxrwxrwx  2 root    sudo     4096 Dec 23  2023 optimization/
 -rwxrwxrwx  1 root    root     1885 Dec 19  2023 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___testtttyesyesyes_103.log*
 -rwxrwxrwx  1 root    root   187750 Dec 19  2023 real_image_critic.ipynb*
 -rwxrwxrwx  1 root    root   115489 Dec 19  2023 py_log_last_epoch_cvat_mololo_3noise_normalized_betterscheduler_clamp_morenoise_moreiterations_notzx_new___yesyesyes.log*
 -rwxrwxrwx  1 root    root    81758 Dec 17  2023 real_image_critic_.log*
--rwxrwxrwx  1 kuartis sudo  5674139 Dec 16  2023 deneme_doruk.ipynb*
--rwxrwxrwx  1 kuartis sudo  1050211 Dec 15  2023 denemebaran.ipynb*
+-rwxrwxrwx  1 root    sudo  5674139 Dec 16  2023 deneme_doruk.ipynb*
+-rwxrwxrwx  1 root    sudo  1050211 Dec 15  2023 denemebaran.ipynb*
 -rwxrwxrwx  1 root    root    56356 Dec 15  2023 real_image_critic.log*
 -rwxrwxrwx  1 root    root     7424 Dec 12  2023 fourier_domain_denoiser_train.ipynb*
 drwxrwxrwx  3 root    root    36864 Dec 12  2023 example_test_results_notz_x/

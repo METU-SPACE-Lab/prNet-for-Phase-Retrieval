@@ -1,6 +1,6 @@
 total 111741940
 drwxrwxrwx 11 root    root      20480 Aug  8 17:39 ./
--rw-r--r--  1 kuartis sudo          0 Aug  8 17:39 ll_sortedtime.txt
+-rw-r--r--  1 root    sudo          0 Aug  8 17:39 ll_sortedtime.txt
 drwxrwxr-x 10 user    user       4096 Aug  8 10:04 ../
 drwxrwxrwx 12 root    root      24576 Jun 10 16:28 notebooks/
 -rw-rw-r--  1 user    user 1021664130 May 14 03:22 indi_pretrained_new_last_noiseconst_refined_input11channel_4.pth
@@ -49,7 +49,7 @@ drwxrwxrwx 12 root    root      24576 Jun 10 16:28 notebooks/
 -rw-rw-r--  1 user    user  846476255 Apr 16 04:27 save_adversarial_alpha_3_last_large_new_.pth
 -rw-rw-r--  1 user    user  846476255 Apr 16 04:27 save_adversarial_alpha_3_best_large_new_.pth
 -rw-rw-r--  1 user    user 1200466213 Apr 15 06:47 save_adversarial_alpha_3_best_large_new.pth
-drwxrwxrwx 21 kuartis sudo       4096 Apr 14 10:00 datasets/
+drwxrwxrwx 21 root    sudo       4096 Apr 14 10:00 datasets/
 -rw-rw-r--  1 user    user      18836 Apr 12 05:47 histogram_alpha3.pdf
 -rw-rw-r--  1 user    user  600381444 Apr 11 19:13 save_mololoed_betterscheduler_clamp_morenoise_moreiterations_notzx_new_yesyesyesyesyesyes_allimages_last_amax_newwithcorrectsnr_2__largenew_betterdc.pth
 -rw-rw-r--  1 user    user  600380234 Apr 11 02:09 save_mololoed_betterscheduler_clamp_morenoise_moreiterations_notzx_new_yesyesyesyesyesyes_allimages_35_amax_newwithcorrectsnr_2__largenew_betterdc.pth
@@ -154,7 +154,7 @@ drwxrwxrwx 21 kuartis sudo       4096 Apr 14 10:00 datasets/
 -rw-r--r--  1 root    root  600249004 Dec 17  2023 save_mololoed_betterscheduler_clamp_morenoise_moreiterations_notzx_new_yesyesyesyesyesyes_87.pth
 -rw-r--r--  1 root    root 2551616601 Dec 17  2023 real_image_critic_.pth
 -rw-r--r--  1 root    root  600249004 Dec 16  2023 save_mololoed_betterscheduler_clamp_morenoise_moreiterations_notzx_new_yesyesyesyesyesyes_79.pth
-drwxr-xr-x  5 kuartis sudo       4096 Dec 16  2023 example_images/
+drwxr-xr-x  5 root    sudo       4096 Dec 16  2023 example_images/
 drwxrwxrwx  3 root    root       4096 Dec 16  2023 data/
 -rwxrwxrwx  1 root    root 2564550879 Dec 16  2023 sam_vit_h_4b8939.pth*
 -rw-r--r--  1 root    root  600249004 Dec 15  2023 save_mololoed_betterscheduler_clamp_morenoise_moreiterations_notzx_new_yesyesyesyesyesyes_71.pth
