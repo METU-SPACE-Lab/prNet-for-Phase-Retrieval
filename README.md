@@ -40,6 +40,18 @@ Please cite the following paper when using this code or data:
 }
 ```
 
+Short conference paper:
+```
+@inproceedings{kaya2025prnet,
+  title={prNet: Efficient and Robust Phase Retrieval via Stochastic Refinement},
+  author={Kaya, Mehmet Onurcan and Oktem, Figen S},
+  booktitle={2025 IEEE 35th International Workshop on Machine Learning for Signal Processing (MLSP)},
+  pages={01--06},
+  year={2025},
+  organization={IEEE}
+}
+```
+
 ## Contact
 If you have any questions or need help, please feel free to contact me via monka@dtu.dk.
 
